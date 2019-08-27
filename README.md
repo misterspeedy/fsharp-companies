@@ -21,18 +21,18 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
-[Binary Defense](https://www.binarydefense.com/) | Akron, OH | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok
+[Binary Defense](https://www.binarydefense.com/) | USA, Akron, OH | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok
 [BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
-[D-Edge](https://www.d-edge.com/) | Paris, France | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
+[D-Edge](https://www.d-edge.com/) | France, Paris | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
 [Genetec](https://www.genetec.com)| Canada, Montreal, Quebec | Security| [Twitter](https://twitter.com/genetec/status/984485239908126721)
 [Huddle](https://www.huddle.com/) | UK, London | Software | [Github](https://github.com/Huddle?utf8=✓&q=&type=&language=f%23)
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
-[Jet](https://jet.com) | USA, NY, New Jerseys | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
+[Jet](https://jet.com) | USA, NY, New Jersey | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
-[Property With Potential](https://www.olo.com) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
-[Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
-[Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
-[The Trainline](https://www.thetrainline.com) | UK,London | Software | [Stackshare](https://stackshare.io/trainline)
-[Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
+[Property With Potential](https://www.olo.com) | UK, London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
+[Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | 
+[Tachyus](https://www.tachyus.com) | USA, Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
+[The Trainline](https://www.thetrainline.com) | UK, London | Software | [Stackshare](https://stackshare.io/trainline)
+[Demetrix](https://www.demetrixbio.com) | USA, Emeryville, CA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
